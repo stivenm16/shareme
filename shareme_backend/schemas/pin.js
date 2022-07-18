@@ -2,7 +2,7 @@ export default {
     name: 'pin',
     title: 'Pin',
     type: 'document',
-    fields; [
+    fields: [
         {
             name: 'title',
             title: 'Title',
@@ -28,7 +28,7 @@ export default {
         },
         {
             name: 'userId',
-            title: 'UserIdD',
+            title: 'UserId',
             type: 'string',
         },
         {
